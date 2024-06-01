@@ -1,8 +1,8 @@
 {
-  "name": "astroplate",
-  "version": "3.4.5",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "name": "website-frontend",
+  "version": "0.0.0",
+  "description": "Website frontend.",
+  "author": "Orange is the new color",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
